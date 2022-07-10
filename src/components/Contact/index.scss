@@ -36,10 +36,10 @@
     input[type='email'] {
       width: 100%;
       border: 0;
-      background: #115173;
+      background: #bae3f9;
       height: 50px;
       font-size: 16px;
-      color: #fff;
+      color: rgb(69, 69, 69);
       padding: 0 20px;
       box-sizing: border-box;
     }
@@ -47,10 +47,10 @@
     textarea {
       width: 100%;
       border: 0;
-      background: #115173;
+      background: #bae3f9;
       height: 50px;
       font-size: 16px;
-      color: #fff;
+      color: rgb(69, 69, 69);
       padding: 20px;
       box-sizing: border-box;
       min-height: 150px;
@@ -103,7 +103,7 @@
     font-size: 17px;
     font-weight: 300;
     opacity: 0;
-    animation: fadeIn 1s 1.5s;
+    animation: fadeIn 0.5s 0.5s;
     animation-fill-mode: forwards;
   
     span {

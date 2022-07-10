@@ -23,9 +23,7 @@ const Contact = () => {
                     idx={5}
                     />
                 </h1>
-                <p>
-                Interesando en...
-                </p>
+                
                 <div className='contact-form'>
                     <form>
                         <ul>

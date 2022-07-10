@@ -1,13 +1,14 @@
 .experience-page {
     .text-zone{
-        position: absolute;
-        left: 20%;
-        top: 50%;
+        position:fixed;
+        left: 6%;
+        top: 48%;
+        bottom: 5%;
         transform: translateY(-50%);
-        width: 35%;
+        width: 100%;
         vertical-align: middle;
         display: table-cell;
-        max-height: 90%;
+        max-height:fit-content;
         text-align: justify;
 
         h1{
